@@ -4,7 +4,7 @@
 int main() {
     char option;
     double val1,val2;
-    printf("Enter the option of what you want to do with your numbers \n     - * for multiply \n     - + for addition \n     - - for subtract \n     - / for division \n     - ^ for factorial\n");
+    printf("Enter the option of what you want to do with your numbers \n     - * for multiply \n     - + for addition \n     - - for subtract \n     - / for division \n     - ^ for power\n");
     scanf("\n%c" ,&option);
     printf("You chose %c\n", option);
 
